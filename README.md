@@ -43,3 +43,4 @@
   - **Search and Favorite Functionality**: Fixed the search and favorite functionality by using `useSearchParams`.
 
 ---
+
